@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE06ISSP-SP001-06-NUTNRJ000-recovered_cspp-nutnr_j_cspp_dark_instrument_recovered
-last_request: '2022-01-01T02:36:54.958811Z'
+last_request: '2022-01-21T01:55:17.150756Z'
 response: https://raw.githubusercontent.com/ooi-data/CE06ISSP-SP001-06-NUTNRJ000-recovered_cspp-nutnr_j_cspp_dark_instrument_recovered/main/history/response.json
 status: discontinued
